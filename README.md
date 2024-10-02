@@ -32,6 +32,7 @@ Ensure you have all the required libraries installed for the programming languag
 For Python (if used):
 ```bash
 $ pip install -r requirements.txt
+$ pip install -e .
 ```
 To test the ip address you will have to get your own api key from api.ip2location.io! (Key name: IP_API_KEY should be in .env)
 
