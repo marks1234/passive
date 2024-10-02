@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import re
 import os
 import subprocess
 import glob
@@ -95,7 +94,7 @@ def main():
                     arg2 = arguments[1]
                     ip(arg2)
                 except:
-                    print(fn_format)
+                    print(ip_format)
             case "-u":
                 try:
                     arg2 = arguments[1]
@@ -210,7 +209,6 @@ def user(username):
     text = run_sherlock(username)
     if type(text) is str:
         print(text)
-
     return
 
 

@@ -1,7 +1,0 @@
-workspaces create my_workspace
-add domains {source}
-modules load {module_name}
-set SOURCE {source}
-run
-show hosts
-exit

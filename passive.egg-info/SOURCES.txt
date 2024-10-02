@@ -1,8 +1,0 @@
-README.md
-passive.py
-setup.py
-passive.egg-info/PKG-INFO
-passive.egg-info/SOURCES.txt
-passive.egg-info/dependency_links.txt
-passive.egg-info/entry_points.txt
-passive.egg-info/top_level.txt

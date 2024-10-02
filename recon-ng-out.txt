@@ -1,5 +1,0 @@
-[34m[*][m Spooling output to 'recon-ng-out.txt'.
-[recon-ng][test_passive][ipinfodb] > run
-[31m[!] .[m
-[recon-ng][test_passive][ipinfodb] > spool stop
-[34m[*][m Spooling stopped. Output saved to 'recon-ng-out.txt'.

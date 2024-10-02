@@ -1,3 +1,0 @@
-IP: 2001:07d0:81e4:5e80:e481:3fb2:3981:fd94
-ISP: Telia Eesti AS
-City Lat/Lon:   (59.43696) / (24.75353)
