@@ -33,6 +33,7 @@ For Python (if used):
 ```bash
 $ pip install -r requirements.txt
 ```
+To test the ip address you will have to get your own api key from api.ip2location.io! (Key name: IP_API_KEY should be in .env)
 
 ## Usage
 
